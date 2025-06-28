@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-repairforgemd",
+	"name": "Repair Forge - MD Sticky Notes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a sticky notes pluigin",
+	"author": "Repair Forge Rick",
+	"authorUrl": "https://repairforge.info",
+	"fundingUrl": "https://repairforge.info/pricing",
+	"isDesktopOnly": false
+}

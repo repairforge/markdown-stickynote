@@ -1,0 +1,15 @@
+{
+  "defaultWidth": 400,
+  "defaultHeight": 500,
+  "stickyNotesFolder": "StickyNotes",
+  "autoNamingPrefix": "Sticky_",
+  "includeTimestamp": true,
+  "autoSaveDelay": 500,
+  "maxSearchResults": 50,
+  "enableAdvancedPinning": true,
+  "pinRefreshInterval": 3000,
+  "favoriteFiles": [
+    "Untitled 1.md",
+    "RF-Linux Managment/podman-n8n-guide.md"
+  ]
+}
