@@ -1,51 +1,54 @@
-Markdown Sticky Note Plugin for Obsidan
+# Markdown Sticky Note Plugin for Obsidian
 
-Markdown Sticky Note Plugin for Obsidian
 A simple Obsidian plugin that displays notes as sticky notes with live preview and raw editing modes.
-Features
 
-Live Preview Mode: Rendered markdown with clean formatting
-Raw Edit Mode: Direct markdown editing
-Mode Toggle: Switch between modes with the indicator bar
-Multi-Note Support: Open multiple sticky notes simultaneously
-Auto-Save: Changes save automatically
+## Screenshots
 
-Installation
+![Live Preview Mode](https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-1.png)
 
-Download the plugin files
-Place in .obsidian/plugins/ directory
-Enable in Community Plugins settings
-Restart Obsidian
+![Raw Edit Mode](https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-2.png)
 
-Usage
+![Multiple Sticky Notes](https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-3.png)
 
-Create a sticky note using the command palette
-Click the mode indicator bar to switch between Live Preview and Raw Edit
-Edit content directly in either mode
-Use standard markdown formatting
-Pin a sticky note to the top
+## Features
 
-Use Cases
+- **Live Preview Mode**: Rendered markdown with clean formatting
+- **Raw Edit Mode**: Direct markdown editing
+- **Mode Toggle**: Switch between modes with the indicator bar
+- **Multi-Note Support**: Open multiple sticky notes simultaneously
+- **Auto-Save**: Changes save automatically
 
-Daily task lists and planning
-Quick reference notes
-Tool and command lists
-Technical documentation
-Study guides and checklists
+## Installation
 
-Markdown
+1. Download the plugin files
+2. Place in `.obsidian/plugins/` directory
+3. Enable in Community Plugins settings
+4. Restart Obsidian
 
-Headers (#, ##, ###, ####)
-Lists (bullet points and numbered)
-Text formatting (bold, italic, code)
-Links (internal and external)
-Code blocks
+## Usage
 
-License
+- Create a sticky note using the command palette
+- Click the mode indicator bar to switch between Live Preview and Raw Edit
+- Edit content directly in either mode
+- Use standard markdown formatting
+- Pin a sticky note to the top
+
+## Use Cases
+
+- Daily task lists and planning
+- Quick reference notes
+- Tool and command lists
+- Technical documentation
+- Study guides and checklists
+
+## Supported Markdown
+
+- Headers (`#`, `##`, `###`, `####`)
+- Lists (bullet points and numbered)
+- Text formatting (**bold**, *italic*, `code`)
+- Links (internal and external)
+- Code blocks
+
+## License
+
 MIT License
-
-https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-1.png
-
-https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-2.png
-
-https://repairforge.info/wp-content/uploads/2025/06/repairforge-stickynote-markdown-obsidan-plugin-screenshot-3.png
